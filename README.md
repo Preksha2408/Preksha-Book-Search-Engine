@@ -55,6 +55,12 @@ To run this application locally, follow these steps:
 ![Search Page screenshot ](Searchpage.png)
 
 
+## Demo 
+
+![BookSearchEngine](BookSearchEngine.gif)
+
+![Logged-In](image.png)
+
 ## Questions 
 
 For questions or further information, please contact me:
